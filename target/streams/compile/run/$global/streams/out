@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0mRunning com.example.ApplicationMain [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/home/eman/Desktop/activator/roxi-traffic-lights/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0m	/home/eman/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar[0m
+[0m[[0mdebug[0m] [0m	/home/eman/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar[0m
+[0m[[0mdebug[0m] [0m	/home/eman/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
