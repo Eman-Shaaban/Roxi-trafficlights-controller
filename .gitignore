@@ -4,3 +4,6 @@
 target/
 project/target
 target
+
+*.xml
+*.xsl
