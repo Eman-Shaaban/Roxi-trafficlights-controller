@@ -1,3 +1,6 @@
+*.class
 .cache/
 .idea/
 target/
+
+target
