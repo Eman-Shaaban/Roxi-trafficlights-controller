@@ -2,5 +2,5 @@
 .cache/
 .idea/
 target/
-
+project/target
 target
